@@ -15,7 +15,7 @@
             <input type="checkbox" v-model="terms" required>
             <label>Ts&Cs</label>
         </div>
-
+        
     </form>
 
 
